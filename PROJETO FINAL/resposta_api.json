@@ -1,0 +1,8 @@
+{
+    "msg": "Usu\u00e1rio logado com sucesso!",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjkyOSwiaWF0IjoxNzIxNzc3Mzk0LCJleHAiOjE3MjE4NjM3OTR9.UvlTIoztI5H49P68wU4u0HnKs1kaGyoOl0pZDqI9k3k",
+    "user": {
+        "idusuarios": 929,
+        "email": "rebeca35@example.net"
+    }
+}
